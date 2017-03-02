@@ -1,0 +1,39 @@
+.top_mid {
+    line-height: 50px;
+    text-align: center;
+    background: #017e5c;
+    color: #ffffff;
+    font-size: 20px;
+}
+.back {
+    float: left;
+}
+.hello {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    color: #017e5c;
+    font-size: 18px;
+    margin: 20px 0 ;
+}
+.regInfo li .inputText {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.reg_li_last {
+    text-align: right;
+}
+.dx {
+    border: 1px solid #017e5c;
+}
+.sureRec {
+    border: 0;
+    height: 50px;
+    width: 100%;
+    background: #f2bd47;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

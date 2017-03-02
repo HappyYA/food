@@ -1,0 +1,59 @@
+.top_mid {
+    line-height: 50px;
+    text-align: center;
+    background: #017e5c;
+    color: #ffffff;
+    font-size: 20px;
+}
+.back {
+    float: left;
+    font-size: 27px;
+    font-weight: 600;
+}
+.save {
+    float: right;
+}
+.info_box li {
+    border: 2px solid #eeeeee;
+    border-bottom: 0;
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+    padding: 0 10px;
+    color: #a6a6a6;
+}
+.info_box .info_first {
+    margin: 10px 0;
+    border-bottom: 2px solid #eeeeee;
+}
+.info_box .info_last {
+    border-bottom: 2px solid #eeeeee;
+}
+.info_img {
+    float: right;
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    margin-top:2px;
+}
+.info_go {
+    float: right;
+}
+.info_title {
+    display: inline-block;
+    width: 70px;
+}
+.sex {
+    color: #f2bd47;
+}
+.quit {
+    border: 0;
+    height: 40px;
+    width: 90%;
+    margin: 20px auto;
+    background: #f2bd47;
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 5%;
+}
+

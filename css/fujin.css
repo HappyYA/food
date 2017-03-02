@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 238920 */
+    src: url('//at.alicdn.com/t/font_9zlegx9ndu6jemi.eot');
+    src: url('//at.alicdn.com/t/font_9zlegx9ndu6jemi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_9zlegx9ndu6jemi.woff') format('woff'),
+    url('//at.alicdn.com/t/font_9zlegx9ndu6jemi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_9zlegx9ndu6jemi.svg#iconfont') format('svg');
+}
+.font_ico{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+.fu_title {
+    background: #017e5c;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: #ffffff;
+    position: relative;
+}
+
+.dw {
+    position: absolute;
+    right: 10px;
+    font-size: 24px;
+}
+.btn_box {
+    height: 50px;
+    /*line-height: 50px;*/
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.my_btn {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    background: #eee;
+    width: 30%;
+    height: 80%;
+    line-height: 40px;
+    color: #017e5c;
+}
+.btn_xz {
+    color: #ffffff;
+    background: #f2bd47;
+}
+.px_box {
+    height: 40px;
+    background: #eeeeee;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.sj {
+    color: #017e5c;
+    float: right;
+}
+.sear_box {
+    position: relative;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.searText {
+    width: 100%;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #eeeeee;
+    text-indent: 23px;
+}
+.fj {
+    position: absolute;
+    top:10px;
+    left: 20px;
+    font-size: 16px;
+}
+.sx {
+    position: absolute;
+    right: 20px;
+    top:10px;
+}

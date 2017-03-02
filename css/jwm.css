@@ -1,0 +1,45 @@
+.px_box {
+    height: 40px;
+    background: #eeeeee;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0;
+}
+.fu_title {
+    background: #017e5c;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: #ffffff;
+    position: relative;
+}
+.dw {
+    position: absolute;
+    left: 10px;
+    font-size: 24px;
+}
+.sj {
+    color: #017e5c;
+    float: right;
+}
+.ding {
+    right: 30px;
+}
+.song {
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    position: absolute;
+    background: #f2bd47;
+    right: 2px;
+    display: inline-block;
+    color: hsl(0, 0%, 97%);
+    font-weight: normal;
+}

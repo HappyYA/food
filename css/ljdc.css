@@ -1,0 +1,67 @@
+.caiPin_a {
+    display: inline-block;
+    width:30%;
+    height: 40px;
+    margin-right: 3%;
+    border: 1px solid #eeeeee;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    color: #a6a6a6;
+}
+.caiPin {
+    position: absolute;
+    width: 100%;
+    background: #ffffff;
+    z-index: 999;
+    padding: 0 10px;
+    padding-left: 14px;
+    top:90px;
+    display: none;
+}
+.allCity {
+    position: absolute;
+    width: 100%;
+    background: #ffffff;
+    z-index: 999;
+    padding: 0 10px;
+    padding-left: 14px;
+    top:90px;
+    display: none;
+}
+.caiPin_a_last {
+    margin-right: 0;
+}
+.zz {
+    background: #000000;
+    opacity: 0.2;
+    width: 100%;
+    height: 100px;
+}
+.dingwei {
+    width: 100%;
+    height: 40px;
+    text-indent: 40px;
+}
+.dw_box {
+    position: relative;
+    line-height: 40px;
+    margin-top: 20px;
+
+}
+.fuckDW {
+    position: absolute;
+    left: 10px;
+    color:  #017e5c;
+    font-size: 20px;
+}
+.qiehuan {
+    right: 30px;
+    position: absolute;
+    color: #a6a6a6;
+}
+.jt {
+    right: 10px;
+    position: absolute;
+}

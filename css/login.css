@@ -1,0 +1,76 @@
+.top_mid {
+    line-height: 50px;
+    text-align: center;
+    background: #017e5c;
+    color: #ffffff;
+    font-size: 20px;
+}
+.back {
+    float: left;
+}
+.hello {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    color: #017e5c;
+    font-size: 18px;
+    margin: 20px 0 ;
+}
+.nameText {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.pawText {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.sub {
+    border: 0;
+    height: 50px;
+    width: 100%;
+    background: #f2bd47;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+.name_box {
+    position: relative;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+.ico {
+    position: absolute;
+    left: 5px;
+    font-size: 25px;
+    top:-5px;
+}
+.paw_box {
+    position: relative;
+    height: 50px;
+    line-height: 50px;
+}
+.nameText {
+    text-indent: 30px;
+}
+.pawText {
+    text-indent: 30px;
+}
+.zc {
+    border: 0;
+    height: 40px;
+    width: 60px;
+    background: #017e5c;
+    color: #ffffff;
+}
+.login_foot {
+    height: 40px;
+    line-height: 40px;
+}
+.zhmm {
+    float: right;
+    color: #ff945a;
+    text-decoration: underline;
+}
+
